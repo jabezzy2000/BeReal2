@@ -1,12 +1,8 @@
-# Project 6 - *BeReal*
+ *BeReal*
 
-Submitted by: **Jabez Agyemang-Prempeh**
+by: **Jabez Agyemang-Prempeh**
 
-**Name of your app** is an app that introduces ... [TODO] 
-
-Time spent: **10** hours spent in total
-
-## Required Features
+Features
 
 The following **required** functionality is completed:
 
@@ -15,15 +11,6 @@ The following **required** functionality is completed:
 - [x] Users are able to log out and return to sign in page
 - [x] Users are NOT able to see other photos until they upload their own	
  
-The following **optional** features are implemented:
-
-- [ ] User receive notifcation when it is time to post
-- [ ] Users can make comments and view comments in posts	
-
-The following **additional** features are implemented:
-
-- [ ] List anything else that you can get done to improve the app functionality!
-
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
@@ -32,18 +19,6 @@ Here's a walkthrough of implemented user stories:
 
 https://user-images.githubusercontent.com/90366540/226266184-84c1c6a4-a9ab-4683-89be-01e612d92ec2.MP4
 
-
-
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
-
-## Notes
-
-Describe any challenges encountered while building the app.
 
 ## License
 
